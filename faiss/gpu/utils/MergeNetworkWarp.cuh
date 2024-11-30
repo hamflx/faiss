@@ -15,6 +15,7 @@
 
 namespace faiss {
 namespace gpu {
+#undef small
 
 //
 // This file contains functions to:
